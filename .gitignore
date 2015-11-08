@@ -1,0 +1,15 @@
+*.dll
+*.aspx
+*.config
+*.browser
+*.map
+1_Data/Mono/etc/mono/browscap.ini
+1_Data/output_log.txt
+1_Data/PlayerConnectionConfigFile
+1_Data/resources.assets
+1_Data/Resources/unity default resources
+1_Data/Mono/etc/mono/config
+1_Data/Mono/etc/mono/mconfig/config.xml
+1_Data/Resources/unity_builtin_extra
+1_Data/sharedassets0.assets
+Library/AnnotationManager
